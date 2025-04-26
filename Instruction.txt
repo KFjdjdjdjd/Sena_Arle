@@ -1,0 +1,10 @@
+If your device is running on Android 9 and up, or if your goal is to record VoIP calls (and only if your device allows it), you will need to install Cube ACR Helper on your device in order to ensure that your Cube ACR app is working properly.
+
+Install and set up Cube ACR Helper on your Android device:
+
+- Install Cube ACR Helper;
+
+- Launch Cube ACR Helper, 'Go to App Connector, 'More downloaded services', 'Cube ACR App Connector' and switch Accessibility to ‘On’.
+
+NOTE: If your device is running on Android 13 you need allow ‘Restricted settings’:
+Open your device Settings → Apps → Cube ACR Helper. Tap the ‘ ⋮ ’ menu on the top panel. Tap ‘Allow restricted settings’, then tap ‘OK’.
